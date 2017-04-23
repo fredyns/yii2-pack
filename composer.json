@@ -1,0 +1,40 @@
+{
+    "name": "fredyns/yii2-pack",
+    "description": "Additional helper to create Yii2 Apps",
+    "type": "yii2-extension",
+    "keywords": [
+        "yii2",
+        "extension",
+        "pack",
+        "access control",
+        "giiant",
+        "code generator template"
+    ],
+    "license": "unlicense",
+    "authors": [
+        {
+            "name": "Fredy Nurman Saleh",
+            "email": "email@fredyns.net"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {
+        "yiisoft/yii2": "*",
+        "yiisoft/yii2-imagine": "^2.1",
+        "cornernote/yii2-returnurl": "*",
+        "dektrium/yii2-user": "0.9.*@dev",
+        "dmstr/yii2-adminlte-asset": "^2.3",
+        "kartik-v/yii2-date-range": "^1.6",
+        "kartik-v/yii2-grid": "^3.1",
+        "kartik-v/yii2-icons": "^1.4",
+        "kartik-v/yii2-mpdf": "^1.0",
+        "kartik-v/yii2-widgets": "^3.4",
+        "mdmsoft/yii2-upload-file": "dev-master",
+        "schmunk42/yii2-giiant": "@dev"
+    },
+    "autoload": {
+        "psr-4": {
+            "fredyns\\pack\\": "src"
+        }
+    }
+}

@@ -24,6 +24,7 @@
         "cornernote/yii2-returnurl": "*",
         "dektrium/yii2-user": "0.9.*@dev",
         "dmstr/yii2-adminlte-asset": "^2.3",
+        "fredyns/yii2-belong2": "dev-master",
         "kartik-v/yii2-date-range": "^1.6",
         "kartik-v/yii2-grid": "^3.1",
         "kartik-v/yii2-icons": "^1.4",

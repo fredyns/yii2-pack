@@ -23,14 +23,11 @@
         "yiisoft/yii2-imagine": "^2.1",
         "cornernote/yii2-returnurl": "*",
         "dektrium/yii2-user": "0.9.*@dev",
-        "dmstr/yii2-adminlte-asset": "^2.3",
-        "fredyns/yii2-belong2": "dev-master",
-        "kartik-v/yii2-date-range": "^1.6",
+        "fredyns/yii2-belong2": "@dev",
         "kartik-v/yii2-grid": "^3.1",
         "kartik-v/yii2-icons": "^1.4",
-        "kartik-v/yii2-mpdf": "^1.0",
         "kartik-v/yii2-widgets": "^3.4",
-        "mdmsoft/yii2-upload-file": "dev-master",
+        "mdmsoft/yii2-upload-file": "@dev",
         "schmunk42/yii2-giiant": "@dev"
     },
     "autoload": {
